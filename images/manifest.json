@@ -1,0 +1,66 @@
+{
+  "id" : "https://ReinDebrulle.github.io/Test/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in ReinDebrulle/Test project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 2362,
+    "id" : "https://ReinDebrulle.github.io/Test/images/DeHoofdzonden/canvas/",
+    "label" : {
+      "none" : [ "DeHoofdzonden" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://ReinDebrulle.github.io/Test/images/DeHoofdzonden/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://ReinDebrulle.github.io/Test/images/DeHoofdzonden/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 74,
+              "height" : 55
+            }, {
+              "width" : 148,
+              "height" : 110
+            }, {
+              "width" : 296,
+              "height" : 219
+            }, {
+              "width" : 591,
+              "height" : 437
+            }, {
+              "width" : 1181,
+              "height" : 874
+            }, {
+              "width" : 2362,
+              "height" : 1747
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2362,
+            "@id" : "https://ReinDebrulle.github.io/Test/images/DeHoofdzonden",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1747
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2362,
+          "id" : "https://ReinDebrulle.github.io/Test/images/DeHoofdzonden/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1747
+        },
+        "target" : "https://ReinDebrulle.github.io/Test/images/DeHoofdzonden/canvas/"
+      } ]
+    } ],
+    "height" : 1747
+  } ]
+}
