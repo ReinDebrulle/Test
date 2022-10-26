@@ -1,0 +1,13 @@
+{
+  "id" : "https://ReinDebrulle.github.io/Test/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in ReinDebrulle/Test project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://ReinDebrulle.github.io/Test/manifests/manifest3.json",
+    "label" : "Ensor's seven deadly sins"
+  } ]
+}
