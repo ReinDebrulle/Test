@@ -1,0 +1,102 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://ReinDebrulle.github.io/Test/manifests/manifest3.json",
+  "@type" : "sc:Manifest",
+  "label" : "Ensor's seven deadly sins",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Collection of prints depicting the seven deadly sins",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Groenigemuseum, Brugge",
+  "sequences" : [ {
+    "@id" : "http://33da8058-3ccb-49fd-b82c-36db2cc2fbdd",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://900d60a3-0db8-403d-814c-fda579100e9b",
+      "@type" : "sc:Canvas",
+      "label" : "De hoofdzonden beheerst door de dood",
+      "height" : 1747,
+      "width" : 2362,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://bd305f77-ec41-4553-af53-84d2fa657f46",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/de-hoofdzonden.tif/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/de-hoofdzonden.tif",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1747,
+          "width" : 2362
+        },
+        "on" : "http://900d60a3-0db8-403d-814c-fda579100e9b"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://9a90a615-fa3b-4a59-be8a-740921ae3638",
+      "@type" : "sc:Canvas",
+      "label" : "De woede",
+      "height" : 842,
+      "width" : 1249,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://956c19d6-3dec-4379-b2a8-1f7202bab616",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/de-woede/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/de-woede",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 842,
+          "width" : 1249
+        },
+        "on" : "http://9a90a615-fa3b-4a59-be8a-740921ae3638"
+      } ],
+      "related" : "",
+      "metadata" : [ ]
+    }, {
+      "@id" : "http://2160b1e9-d0fb-4beb-a90d-45cb6c94e1be",
+      "@type" : "sc:Canvas",
+      "label" : "De luiheid",
+      "height" : 842,
+      "width" : 1252,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://aca7abd0-ae7c-4124-963b-507385a70d45",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/de-luiheid/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/de-luiheid",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 842,
+          "width" : 1252
+        },
+        "on" : "http://2160b1e9-d0fb-4beb-a90d-45cb6c94e1be"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
