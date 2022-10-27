@@ -1,0 +1,72 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "\"Frontispice pour les sept p&eacute;ch&eacute;s capitaux\"",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>\"<em>Frontispice pour les sept p&eacute;ch&eacute;s capitaux</em>\"</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/116635188",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-10-27T07:54:23",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1666857263444",
+    "dcterms:modified" : "2022-10-27T07:54:23",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ReinDebrulle.github.io/Test/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=95,14,2090,142"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2185.50206,156.16461h-1045.04321v0h-1045.04321v-70.893v-70.893h1045.04321h1045.04321v70.893z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_730e91cd-1bca-422d-9281-b2328a01ac58\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://900d60a3-0db8-403d-814c-fda579100e9b"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Death",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Death</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/116635188",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-10-27T07:52:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1666857154880",
+    "dcterms:modified" : "2022-10-27T07:52:34",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ReinDebrulle.github.io/Test/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=971,224,426,487"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M970.51029,224.46296h213.08436v0h213.08436v243.63889v243.63889h-213.08436h-213.08436v-243.63889z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_2cce49c7-e5ae-4fe6-9a56-cf54a2fc3c35\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://900d60a3-0db8-403d-814c-fda579100e9b"
+    } ]
+  } ],
+  "@id" : "https://ReinDebrulle.github.io/Test/annotations/ac7311810a4018d29bba4112c5d4f35e.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
