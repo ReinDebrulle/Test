@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://ReinDebrulle.github.io/Test/annotations/ac7311810a4018d29bba4112c5d4f35e.json", "https://ReinDebrulle.github.io/Test/annotations/d5276a37b0c869743192beca85674826.json" ],
+  "otherContent" : [ "https://ReinDebrulle.github.io/Test/annotations/ac7311810a4018d29bba4112c5d4f35e.json", "https://ReinDebrulle.github.io/Test/annotations/d5276a37b0c869743192beca85674826.json", "https://ReinDebrulle.github.io/Test/annotations/e006b5a8bdb14ce8af7b3ddae66394f8.json" ],
   "@id" : "https://ReinDebrulle.github.io/Test/annotations/collection.json",
   "label" : "All annotations loaded in ReinDebrulle/Test project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
