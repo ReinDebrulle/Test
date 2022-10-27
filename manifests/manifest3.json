@@ -3,6 +3,11 @@
   "@id" : "https://ReinDebrulle.github.io/Test/manifests/manifest3.json",
   "@type" : "sc:Manifest",
   "label" : "Ensor's seven deadly sins",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/116635188/261a097e55a38d34ef4e4473823106c3/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "Collection of prints depicting the seven deadly sins",
@@ -41,6 +46,11 @@
           "width" : 2362
         },
         "on" : "http://900d60a3-0db8-403d-814c-fda579100e9b"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://reindebrulle.github.io/Test/annotations/ac7311810a4018d29bba4112c5d4f35e.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     }, {
