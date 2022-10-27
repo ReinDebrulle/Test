@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://ReinDebrulle.github.io/Test/annotations/ac7311810a4018d29bba4112c5d4f35e.json" ],
+  "@id" : "https://ReinDebrulle.github.io/Test/annotations/collection.json",
+  "label" : "All annotations loaded in ReinDebrulle/Test project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
