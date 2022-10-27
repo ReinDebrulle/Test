@@ -1,0 +1,303 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Gluttony",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Gluttony</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/116635188",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-10-27T14:51:47",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1666882307290",
+    "dcterms:modified" : "2022-10-27T14:51:47",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ReinDebrulle.github.io/Test/manifests/Ensor_manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1285,820,316,423"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1285.10804,866.78335l144.40792,-47.01653l161.19954,26.86659l10.07497,147.76624l-30.22491,171.27451l-26.86659,77.24145l-134.33295,-16.79162l-114.18301,-87.31642z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_7a93d31c-ec25-485b-b153-c7ed4fa793c4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://00fa64eb-ef5f-48a5-b80d-956b9fe359ce"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Avarice",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Avarice</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/116635188",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-10-27T14:52:56",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1666882376243",
+    "dcterms:modified" : "2022-10-27T14:52:56",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ReinDebrulle.github.io/Test/manifests/Ensor_manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=308,709,376,531"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M338.06075,762.67532l70.5248,-50.37486l87.31642,-3.35832l117.54133,30.22491l70.5248,104.10804l-53.73318,144.40792l-30.22491,141.0496l-6.71665,67.16647l-60.44983,43.65821l-104.10804,-47.01653l-104.10804,-174.63283l-16.79162,-161.19954z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_d4ec0668-d6f8-431d-9522-26eee1af45ca\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://00fa64eb-ef5f-48a5-b80d-956b9fe359ce"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Laziness",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Laziness</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/116635188",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-10-27T14:43:30",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1666881810178",
+    "dcterms:modified" : "2022-10-27T14:43:30",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ReinDebrulle.github.io/Test/manifests/Ensor_manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1742,588,531,796"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2067.59746,588.04248l-107.46636,322.39908l-124.25798,261.94925l-94.03306,181.34948l312.32411,30.22491l208.21607,-30.22491l10.07497,-433.22376v-272.02422l-204.85775,-57.0915l3.35832,3.35832v0h3.35832h-3.35832z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_b3392bfa-2331-4b2d-88f6-72765c2909ba\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://00fa64eb-ef5f-48a5-b80d-956b9fe359ce"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Wrath",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Wrath</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/116635188",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-10-27T14:44:01",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1666881841661",
+    "dcterms:modified" : "2022-10-27T14:44:01",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ReinDebrulle.github.io/Test/manifests/Ensor_manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1587,581,359,709"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1889.60631,581.32584l-100.74971,251.87428l-161.19954,47.01653l-10.07497,198.1411l-30.22491,134.33295l94.03306,77.24145l204.85775,-272.02422l60.44983,-174.63283l-47.01653,-255.2326z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_b22b71b6-1525-49a3-b8f3-9edf642e999d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://00fa64eb-ef5f-48a5-b80d-956b9fe359ce"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Death",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Death</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/116635188",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-10-27T14:42:40",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1666881760314",
+    "dcterms:modified" : "2022-10-27T14:42:40",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ReinDebrulle.github.io/Test/manifests/Ensor_manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=897,230,580,502"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M896.90081,230.06017h289.81584v0h289.81584v251.19512v251.19512h-289.81584h-289.81584v-251.19512z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_9313850b-28b9-4701-b00b-f92e0859fba6\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://00fa64eb-ef5f-48a5-b80d-956b9fe359ce"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Envy",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Envy</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/116635188",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-10-27T14:52:12",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1666882332031",
+    "dcterms:modified" : "2022-10-27T14:52:12",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ReinDebrulle.github.io/Test/manifests/Ensor_manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=986,840,292,430"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M996.2922,913.79988l90.67474,-73.88312l87.31642,3.35832l77.24145,40.29988l16.79162,137.69127l10.07497,100.74971l-33.58324,100.74971l-73.88312,47.01653l-83.95809,-10.07497l-94.03306,-87.31642l-6.71665,-94.03306l10.07497,-157.84121z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_09493a0d-3103-4788-97bb-86d0965d7e98\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://00fa64eb-ef5f-48a5-b80d-956b9fe359ce"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Lust",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Lust</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/116635188",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-10-27T14:52:33",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1666882353202",
+    "dcterms:modified" : "2022-10-27T14:52:33",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ReinDebrulle.github.io/Test/manifests/Ensor_manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=620,867,359,490"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M643.6682,1001.1163l60.44983,-94.03306l87.31642,-33.58324l94.03306,-6.71665l70.5248,30.22491l20.14994,83.95809l-13.43329,63.80815l-10.07497,154.48289l26.86659,97.39139l-83.95809,50.37486l-218.29104,10.07497l-57.0915,-97.39139l23.50827,-258.59093z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_45e81fe4-56de-4100-8435-9b5c48d75f10\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://00fa64eb-ef5f-48a5-b80d-956b9fe359ce"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Pride",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Pride</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/116635188",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-10-27T14:53:15",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1666882395064",
+    "dcterms:modified" : "2022-10-27T14:53:15",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ReinDebrulle.github.io/Test/manifests/Ensor_manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=73,591,272,692"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M72.75317,665.28393l53.73318,-67.16647l77.24145,-6.71665l97.39139,36.94156l26.86659,107.46636l-43.65821,130.97463l13.43329,114.18301l30.22491,104.10804l16.79162,77.24145l-53.73318,77.24145l-83.95809,30.22491l-94.03306,13.43329z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_623d4fd5-85a7-4e3b-a5e0-93b73a40fb8f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://00fa64eb-ef5f-48a5-b80d-956b9fe359ce"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "\"Frontispice pour les sept p&eacute;ch&eacute;s capitaux\"",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>\"<em>Frontispice pour les sept p&eacute;ch&eacute;s capitaux</em>\"</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/116635188",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-10-27T14:54:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1666882478499",
+    "dcterms:modified" : "2022-10-27T14:54:38",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ReinDebrulle.github.io/Test/manifests/Ensor_manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=103,17,2043,149"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2146.19723,166.25202h-1021.60957v0h-1021.60957v-74.7302v-74.7302h1021.60957h1021.60957v74.7302z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_9b0a7c41-5455-4f24-a657-05d3834ff9b4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://00fa64eb-ef5f-48a5-b80d-956b9fe359ce"
+    } ]
+  } ],
+  "@id" : "https://ReinDebrulle.github.io/Test/annotations/d5276a37b0c869743192beca85674826.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
