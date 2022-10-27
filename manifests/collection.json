@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://ReinDebrulle.github.io/Test/manifests/manifest3.json",
     "label" : "Ensor's seven deadly sins"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://ReinDebrulle.github.io/Test/manifests/Ensor_manifest2.json",
+    "label" : "Ensor's seven deadly sins"
   } ]
 }
