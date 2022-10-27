@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1123,
+    "id" : "https://ReinDebrulle.github.io/Test/images/DeHoogmoed/canvas/",
+    "label" : {
+      "none" : [ "DeHoogmoed" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://ReinDebrulle.github.io/Test/images/DeHoogmoed/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://ReinDebrulle.github.io/Test/images/DeHoogmoed/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 36,
+              "height" : 27
+            }, {
+              "width" : 71,
+              "height" : 53
+            }, {
+              "width" : 141,
+              "height" : 106
+            }, {
+              "width" : 281,
+              "height" : 211
+            }, {
+              "width" : 562,
+              "height" : 421
+            }, {
+              "width" : 1123,
+              "height" : 842
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1123,
+            "@id" : "https://ReinDebrulle.github.io/Test/images/DeHoogmoed",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 842
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1123,
+          "id" : "https://ReinDebrulle.github.io/Test/images/DeHoogmoed/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 842
+        },
+        "target" : "https://ReinDebrulle.github.io/Test/images/DeHoogmoed/canvas/"
+      } ]
+    } ],
+    "height" : 842
+  }, {
     "width" : 2362,
     "id" : "https://ReinDebrulle.github.io/Test/images/DeHoofdzonden/canvas/",
     "label" : {
