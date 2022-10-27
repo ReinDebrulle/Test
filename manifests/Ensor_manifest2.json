@@ -1,0 +1,234 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://ReinDebrulle.github.io/Test/manifests/Ensor_manifest2.json",
+  "@type" : "sc:Manifest",
+  "label" : "Ensor's seven deadly sins",
+  "metadata" : [ {
+    "@label" : "Author",
+    "@value" : "James Ensor"
+  }, {
+    "@label" : "Published",
+    "@value" : "1904"
+  } ],
+  "description" : [ {
+    "@value" : "These etching by James Ensor depict the seven deadly sins. They were intended as some sort of album. Now the parts are seperate collection items, sometimes held by seperate institutions.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Groeningemuseum, Brugge. Museum voor Schone Kunsten, Gent.",
+  "sequences" : [ {
+    "@id" : "http://eaa69a14-2f06-40b0-816b-89edd959ae09",
+    "@type" : "sc:Sequence",
+    "label" : "Normal Sequence",
+    "viewingHint" : "individual",
+    "canvases" : [ {
+      "@id" : "http://00fa64eb-ef5f-48a5-b80d-956b9fe359ce",
+      "@type" : "sc:Canvas",
+      "label" : "The seven deadly sins ruled by death",
+      "height" : 1747,
+      "width" : 2362,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c61f1c20-24ab-4db9-9132-2df9927e2099",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/de-hoofdzonden.tif/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/de-hoofdzonden.tif",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1747,
+          "width" : 2362
+        },
+        "on" : "http://00fa64eb-ef5f-48a5-b80d-956b9fe359ce"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://aa935936-8703-4721-a566-ad60e676b9c7",
+      "@type" : "sc:Canvas",
+      "label" : "Pride",
+      "height" : 842,
+      "width" : 1123,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b76d2bec-b06a-4bd0-9685-626b6fe2fad1",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/de-hoogmoed_202210/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/de-hoogmoed_202210",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 842,
+          "width" : 1123
+        },
+        "on" : "http://aa935936-8703-4721-a566-ad60e676b9c7"
+      } ]
+    }, {
+      "@id" : "http://4028f618-72bb-43cc-839f-c9eee62b6c44",
+      "@type" : "sc:Canvas",
+      "label" : "Avarice",
+      "height" : 3771,
+      "width" : 5000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a2fd2556-11cf-472e-9197-5c578ad5f0a2",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/de-gierigheid_202210/full/1123,/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/de-gierigheid_202210",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3771,
+          "width" : 5000
+        },
+        "on" : "http://4028f618-72bb-43cc-839f-c9eee62b6c44"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://2b09a4ae-192b-4d61-ab5e-7daa09fad515",
+      "@type" : "sc:Canvas",
+      "label" : "Lust",
+      "height" : 842,
+      "width" : 1123,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://6fccb97e-bc92-4eb5-a85e-fdddf0798733",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/de-lust/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/de-lust",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 842,
+          "width" : 1123
+        },
+        "on" : "http://2b09a4ae-192b-4d61-ab5e-7daa09fad515"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://f6e77a0e-9563-4090-a800-e344fca09dca",
+      "@type" : "sc:Canvas",
+      "label" : "Envy",
+      "height" : 842,
+      "width" : 1123,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4746c16b-701c-4d5a-924b-f22baedf2e36",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/de-afgunst/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/de-afgunst",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 842,
+          "width" : 1123
+        },
+        "on" : "http://f6e77a0e-9563-4090-a800-e344fca09dca"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://c34adcba-8896-45c1-91f0-5b6335b6bb4c",
+      "@type" : "sc:Canvas",
+      "label" : "Gluttony",
+      "height" : 842,
+      "width" : 1241,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://aa60ef1e-8943-4cde-b60a-3b20f4dd8b8c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/de-gulzigheid_202210/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/de-gulzigheid_202210",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 842,
+          "width" : 1241
+        },
+        "on" : "http://c34adcba-8896-45c1-91f0-5b6335b6bb4c"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://b9265748-a310-4a82-adb7-4ccbe984f540",
+      "@type" : "sc:Canvas",
+      "label" : "Wrath",
+      "height" : 842,
+      "width" : 1249,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://39e39e65-1b81-42ba-b947-4b796a3349c3",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/de-woede/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/de-woede",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 842,
+          "width" : 1249
+        },
+        "on" : "http://b9265748-a310-4a82-adb7-4ccbe984f540"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://44ad6db7-32ee-4223-b34b-5189563bdd02",
+      "@type" : "sc:Canvas",
+      "label" : "Laziness",
+      "height" : 842,
+      "width" : 1252,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://672a76ba-7006-4f58-9678-5ece38cf0616",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/de-luiheid/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/de-luiheid",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 842,
+          "width" : 1252
+        },
+        "on" : "http://44ad6db7-32ee-4223-b34b-5189563bdd02"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
