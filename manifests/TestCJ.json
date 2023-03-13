@@ -1,0 +1,230 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://purl.stanford.edu/bp444yn9111/iiif/manifest",
+  "@type": "sc:Manifest",
+  "label": "Rumoi, Rumoi [Sub]prefecture. Hokkaido, Japan",
+  "attribution": "This work has been identified as being free of known restrictions under copyright law, including all related and neighboring rights. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.",
+  "logo": {
+    "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette/full/400,/0/default.jpg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette",
+      "profile": "http://iiif.io/api/image/2/level2.json"
+    }
+  },
+  "seeAlso": {
+    "@id": "https://purl.stanford.edu/bp444yn9111.mods",
+    "format": "application/mods+xml"
+  },
+  "metadata": [
+    {
+      "label": "Available Online",
+      "value": "<a href='https://purl.stanford.edu/bp444yn9111'>https://purl.stanford.edu/bp444yn9111</a>"
+    },
+    {
+      "label": "Title",
+      "value": "Rumoi, Rumoi [Sub]prefecture. Hokkaido, Japan"
+    },
+    {
+      "label": "Contributor",
+      "value": "United States Army Map Service."
+    },
+    {
+      "label": "Type",
+      "value": "map"
+    },
+    {
+      "label": "Date",
+      "value": "1945"
+    },
+    {
+      "label": "Language",
+      "value": "eng"
+    },
+    {
+      "label": "Format",
+      "value": "col. map. 56 x 53 cm."
+    },
+    {
+      "label": "Description",
+      "value": "In upper margin: Japan city plans."
+    },
+    {
+      "label": "Description",
+      "value": "\"Polyconic projection.\""
+    },
+    {
+      "label": "Description",
+      "value": "Military grid."
+    },
+    {
+      "label": "Description",
+      "value": "\"Contour interval 20 meters ... Depths in fathoms at nearly lowest low water.\""
+    },
+    {
+      "label": "Description",
+      "value": "Three classes of roads or trails, two classes of railroads, and areas of vegetation and cultivation are shown. Some buildings are named."
+    },
+    {
+      "label": "Description",
+      "value": "Includes \"Glossary.\""
+    },
+    {
+      "label": "Description",
+      "value": "Inset: Index to sources."
+    },
+    {
+      "label": "Coverage",
+      "value": "Scale 1:12,500."
+    },
+    {
+      "label": "Subject",
+      "value": "Maps"
+    },
+    {
+      "label": "Coverage",
+      "value": "Rumoi-shi (Japan)"
+    },
+    {
+      "label": "Subject",
+      "value": "G7964.R937 1945 .U5"
+    },
+    {
+      "label": "Identifier",
+      "value": "lccn: map48000083"
+    },
+    {
+      "label": "PublishDate",
+      "value": "2020-05-13T20:32:20Z"
+    }
+  ],
+  "description": "In upper margin: Japan city plans.",
+  "thumbnail": {
+    "@id": "https://stacks.stanford.edu/image/iiif/bp444yn9111/bp444yn9111_0001/full/!400,400/0/default.jpg",
+    "@type": "dctypes:Image",
+    "format": "image/jpeg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://stacks.stanford.edu/image/iiif/bp444yn9111/bp444yn9111_0001",
+      "profile": "http://iiif.io/api/image/2/level2.json"
+    },
+    "height": 400,
+    "width": 372
+  },
+  "sequences": [
+    {
+      "@id": "https://purl.stanford.edu/bp444yn9111#sequence-1",
+      "@type": "sc:Sequence",
+      "label": "Current order",
+      "viewingDirection": "left-to-right",
+      "canvases": [
+        {
+          "@id": "https://purl.stanford.edu/bp444yn9111/iiif/canvas/bp444yn9111_1",
+          "@type": "sc:Canvas",
+          "label": "Image 1",
+          "height": 16174,
+          "width": 15041,
+          "rendering": [
+            {
+              "@id": "https://stacks.stanford.edu/file/bp444yn9111/bp444yn9111_0001.jp2",
+              "label": "Original source file (43.6 MB)",
+              "format": "image/jp2"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://purl.stanford.edu/bp444yn9111/iiif/annotation/bp444yn9111_1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/bp444yn9111/bp444yn9111_0001/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 16174,
+                "width": 15041,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://stacks.stanford.edu/image/iiif/bp444yn9111/bp444yn9111_0001",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://purl.stanford.edu/bp444yn9111/iiif/canvas/bp444yn9111_1"
+            }
+          ],
+            [ {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/33ba3c69-ffaa-40ca-922a-d0b7507b4e25",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-03-13T13:49:40+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "Rumoi Station",
+    "creator" : "https://recogito.pelagios.org/rdbrulle",
+    "modified" : "2023-03-13T09:35:42+00:00",
+    "purpose" : "transcribing"
+  } ],
+  "target" : {
+    "source" : "https://stacks.stanford.edu/image/iiif/bp444yn9111/bp444yn9111_0001",
+    "type" : "Image",
+    "label" : "Image 1",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:7135,8584,420,59"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/93f8f6ea-f5de-4c58-ad7d-535dbe4493f9",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-03-13T13:49:40+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "RUMOI MACHI",
+    "creator" : "https://recogito.pelagios.org/rdbrulle",
+    "modified" : "2023-01-06T16:31:33+00:00",
+    "purpose" : "transcribing"
+  }, {
+    "type" : "SpecificResource",
+    "value" : "http://sws.geonames.org/2128382",
+    "creator" : "https://recogito.pelagios.org/rdbrulle",
+    "modified" : "2023-01-06T16:31:33+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/rdbrulle",
+    "modified" : "2023-01-06T16:31:33+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 141.64278, 43.93444 ]
+    }
+  } ],
+  "target" : {
+    "source" : "https://stacks.stanford.edu/image/iiif/bp444yn9111/bp444yn9111_0001",
+    "type" : "Image",
+    "label" : "Image 1",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:6974,7071,583,85"
+    } ]
+  }
+} ]
+        }
+      ]
+    }
+  ]
+}
