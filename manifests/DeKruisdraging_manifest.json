@@ -186,7 +186,7 @@
             ],
             "otherContent": [
     {
-        "@id": "https://raw.githubusercontent.com/ReinDebrulle/annonatate/main/_annotations/3417838d-8592-4468-b80d-ec5438d1aef9.json",
+        "@id": "https://github.com/ReinDebrulle/annonatate/blob/main/_annotations/3417838d-8592-4468-b80d-ec5438d1aef9.json",
         "@type": "sc:AnnotationList",
         "label": "My fantastic annotations"
     }
