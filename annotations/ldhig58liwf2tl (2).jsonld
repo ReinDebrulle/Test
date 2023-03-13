@@ -43,21 +43,7 @@
     "creator" : "https://recogito.pelagios.org/rdbrulle",
     "modified" : "2023-01-06T16:31:33+00:00",
     "purpose" : "transcribing"
-  }, {
-    "type" : "SpecificResource",
-    "value" : "http://sws.geonames.org/2128382",
-    "creator" : "https://recogito.pelagios.org/rdbrulle",
-    "modified" : "2023-01-06T16:31:33+00:00",
-    "purpose" : "identifying"
-  }, {
-    "type" : "Feature",
-    "creator" : "https://recogito.pelagios.org/rdbrulle",
-    "modified" : "2023-01-06T16:31:33+00:00",
-    "purpose" : "georeferencing",
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 141.64278, 43.93444 ]
-    }
+  }
   } ],
   "target" : {
     "source" : "https://stacks.stanford.edu/image/iiif/bp444yn9111/bp444yn9111_0001",
