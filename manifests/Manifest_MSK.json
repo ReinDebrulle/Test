@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://1852a9cb-d7ad-4a66-bb99-5d2e45d7697e",
+	"@id": "https://raw.githubusercontent.com/ReinDebrulle/Test/main/manifests/Manifest_MSK.json",
 	"@type": "sc:Manifest",
 	"label": {
 				"@value": "Self-portrait (study)",
