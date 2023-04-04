@@ -169,6 +169,12 @@
                     ]
                 }
             ],
+            "annotations": [
+        {
+          "id": "https://raw.githubusercontent.com/ReinDebrulle/annonatate/main/_annotations/3-2680-1-list.json",
+          "type": "AnnotationPage"
+        }
+      ],
             "thumbnail": [
                 {
                     "id": "https://imagehub.mskgent.be/iiif/2/public%2F2680.tif/full/400,/0/default.jpg",
@@ -305,12 +311,6 @@
                     ]
                 }
             ],
-          "annotations": [
-        {
-          "id": "https://raw.githubusercontent.com/ReinDebrulle/annonatate/main/_annotations/3-2680-1-list.json",
-          "type": "AnnotationPage"
-        }
-      ],
             "thumbnail": [
                 {
                     "id": "https://imagehub.mskgent.be/iiif/2/public%2F2681.tif/full/400,/0/default.jpg",
