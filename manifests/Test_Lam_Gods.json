@@ -98,7 +98,8 @@
       "annotations": [
         {
           "id": "https://raw.githubusercontent.com/ReinDebrulle/Test/main/annotations/AnnotationPage.json",
-          "type": "AnnotationPage" },
+          "type": "AnnotationPage" }
+	      ],
     {
       "id": "http://127.0.0.1:8887/canvas/p2",
       "type": "Canvas",
