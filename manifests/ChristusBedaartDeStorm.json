@@ -4,12 +4,12 @@
     "@type": "sc:Manifest",
     "label": [
                 {
-                    "@language": "en",
-                    "@value": "Christ calms the storm"
-                },
-                {
                     "@language": "nl",
                     "@value": "Christus bedaart de storm"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Christ calms the storm"
                 }
             ],
     "metadata": [
