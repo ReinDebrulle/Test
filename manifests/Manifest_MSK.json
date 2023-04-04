@@ -3,12 +3,12 @@
 	"@id": "http://1852a9cb-d7ad-4a66-bb99-5d2e45d7697e",
 	"@type": "sc:Manifest",
 	"label": {
-				"@value": "Zelfportret (studie)",
-				"@language": "nl"
-			},
-            {
 				"@value": "Self-portrait (study)",
 				"@language": "en"
+			},
+		{
+				"@value": "Zelfportret (studie)",
+				"@language": "nl"
 			},
 	"metadata": [
 		{
