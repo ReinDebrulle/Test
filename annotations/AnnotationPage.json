@@ -1,6 +1,6 @@
  {
           "@context": "http://iiif.io/api/presentation/3/context.json",
-          "id": "http://127.0.0.1:8887/annotationPage/1",
+          "id": "https://raw.githubusercontent.com/ReinDebrulle/Test/main/annotations/AnnotationPage.json",
           "type": "AnnotationPage",
           "items": [
           	{
