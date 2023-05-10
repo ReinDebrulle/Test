@@ -89,7 +89,16 @@
                     "@value": "Beschrijving"
                 }
             ],
-            "value": "Dit bijbelse thema vormde de aanleiding voor de voorstelling van een hevige storm op zee, waarin de lichteffecten, de kleur, de atmosfeer en de dynamiek de acteurs zijn.  Ensor dacht bij het schilderen misschien terug aan doeken van Turner die hij kende van reproducties of van zijn reis naar Engeland met Guillaume Vogels.  Mogelijk zag hij de spectaculaire weergave van een ontketende natuur ook op werk van John Martin of Franics Danby, twee Britse schilders uit de vroege negentiende eeuw.  Vermoedelijk identificeert Ensor zich hier met Christus, maar door het kleine formaat van de figuren is dat moeilijk uit te maken."
+            "value": [
+                {
+                    "@language": "en",
+                    "@value": "This biblical theme was the reason for the presentation of a violent storm at sea, in which the light effects, the color, the atmosphere and the dynamics are the actors. When painting, Ensor may have thought back to paintings by Turner that he knew from reproductions or from his trip to England with Guillaume Vogels. He may have also seen the spectacular depiction of unleashed nature in works by John Martin or Franics Danby, two British painters from the early nineteenth century. Presumably Ensor identifies with Christ here, but the small size of the figures makes it difficult to determine."
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Dit bijbelse thema vormde de aanleiding voor de voorstelling van een hevige storm op zee, waarin de lichteffecten, de kleur, de atmosfeer en de dynamiek de acteurs zijn.  Ensor dacht bij het schilderen misschien terug aan doeken van Turner die hij kende van reproducties of van zijn reis naar Engeland met Guillaume Vogels.  Mogelijk zag hij de spectaculaire weergave van een ontketende natuur ook op werk van John Martin of Franics Danby, twee Britse schilders uit de vroege negentiende eeuw.  Vermoedelijk identificeert Ensor zich hier met Christus, maar door het kleine formaat van de figuren is dat moeilijk uit te maken."
+                }
+            ]
         },
         {
             "label": "IIIF manifest",
