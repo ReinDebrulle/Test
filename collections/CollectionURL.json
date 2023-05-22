@@ -9,7 +9,7 @@
   },
   "items": [
     {
-      "id": "https://dam.museabrugge.be/iiif/2/1479/manifest.json",
+      "id": "https://dam.museabrugge.be/iiif/3/1479/manifest.json",
       "type": "Manifest",
       "label": {
         "nl": [
@@ -27,7 +27,7 @@
       }
     },
     {
-      "id": "https://dam.museabrugge.be/iiif/2/396/manifest.json",
+      "id": "https://dam.museabrugge.be/iiif/3/396/manifest.json",
       "type": "Manifest",
       "label": {
         "nl": [
@@ -36,7 +36,7 @@
       }
     },
     {
-      "id": "https://dam.museabrugge.be/iiif/2/418/manifest.json",
+      "id": "https://dam.museabrugge.be/iiif/3/418/manifest.json",
       "type": "Manifest",
       "label": {
         "nl": [
@@ -45,7 +45,7 @@
       }
     },
     {
-      "id": "https://dam.museabrugge.be/iiif/2/517/manifest.json",
+      "id": "https://dam.museabrugge.be/iiif/3/517/manifest.json",
       "type": "Manifest",
       "label": {
         "nl": [
