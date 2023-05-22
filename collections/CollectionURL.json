@@ -3,26 +3,26 @@
   "id": "https://raw.githubusercontent.com/ReinDebrulle/Test/main/collections/CollectionURL.json",
   "type": "Collection",
   "label": {
-    "en": [
-      "Simple Collection Example"
+    "nl": [
+      "Project VKC"
     ]
   },
   "items": [
     {
-      "id": "https://preview.iiif.io/cookbook/0032-collection/recipe/0032-collection/manifest-01.json",
+      "id": "https://dam.museabrugge.be/iiif/2/1479/manifest.json",
       "type": "Manifest",
       "label": {
-        "en": [
-          "Manifest 1"
+        "nl": [
+          "Drieluik van Johannes de Doper en Johannes de Evangelist"
         ]
       }
     },
     {
-      "id": "https://preview.iiif.io/cookbook/0032-collection/recipe/0032-collection/manifest-02.json",
+      "id": "https://iiif.kmska.be/iiif/2/27084/manifest.json",
       "type": "Manifest",
       "label": {
-        "en": [
-          "Manifest 2"
+        "nl": [
+          "De Zeven Sacramenten"
         ]
       }
     }
