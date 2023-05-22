@@ -25,6 +25,33 @@
           "De Zeven Sacramenten"
         ]
       }
+    },
+    {
+      "id": "https://dam.museabrugge.be/iiif/2/396/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Doopsel van Christus"
+        ]
+      }
+    },
+    {
+      "id": "https://dam.museabrugge.be/iiif/2/418/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Laatste Oordeel"
+        ]
+      }
+    },
+    {
+      "id": "https://dam.museabrugge.be/iiif/3/517/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Reliekschrijn van de Heilige Ursula"
+        ]
+      }
     }
   ]
 }
