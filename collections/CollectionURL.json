@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://preview.iiif.io/cookbook/0032-collection/recipe/0032-collection/collection.json",
+  "id": "https://raw.githubusercontent.com/ReinDebrulle/Test/main/collections/CollectionURL.json",
   "type": "Collection",
   "label": {
     "en": [
